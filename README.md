@@ -1,2 +1,2 @@
 # Fishwaterdb
-Accessing the fisthwater DB API
+Accessing the fishwater DB API
